@@ -9,7 +9,7 @@
 .author{
     font-size: 0.8rem;
     font-weight: bold;
-    color: burlywood;
+    color: rgb(231, 231, 230);
     margin: 0;
     text-transform: uppercase;
 }
@@ -17,7 +17,7 @@
     white-space: pre-wrap;
     font-size: 1.25rem;
     margin: 0.25rem 0 0 0;
-    color: burlywood;
+    color: rgb(216, 215, 213);
     font-style: italic;
 }
 @keyframes animate-in{

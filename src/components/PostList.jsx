@@ -8,6 +8,15 @@ function PostList ()
             <Post author="bejo" body="belajar react tidak sulit"/>
             <Post author="banget" body="belajar di UPGRIS sangat Awsome !!!!"/>
             <Post author="fandi" body="belajar reac gampang banget"/>
+            <Post author="bejo" body="belajar react tidak sulit"/>
+            <Post author="banget" body="belajar di UPGRIS sangat Awsome !!!!"/>
+            <Post author="fandi" body="belajar reac gampang banget"/>
+            <Post author="bejo" body="belajar react tidak sulit"/>
+            <Post author="banget" body="belajar di UPGRIS sangat Awsome !!!!"/>
+            <Post author="fandi" body="belajar reac gampang banget"/>
+            <Post author="bejo" body="belajar react tidak sulit"/>
+            <Post author="banget" body="belajar di UPGRIS sangat Awsome !!!!"/>
+            <Post author="fandi" body="belajar reac gampang banget"/>
         </ul>
     )
 }
